@@ -85,7 +85,7 @@ class ConnectedDetails extends Component {
             }}
           >
             <fieldset>
-              <legend style={{ fontSize: 18, marginTop: 10, color : "purple" }}
+              <legend style={{ fontSize: 18, marginTop: 10, color : "white" }}
               >General Informations
               </legend>
             <ul>
